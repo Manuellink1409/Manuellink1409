@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Manuellink1409/Manuellink1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¡Hola, soy Manuel! 👋🏽
 
-Here are some ideas to get you started:
+Soy un desarrollador de 24 años de México.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Herramientas
+
+### Frontend
+- React.js
+- Vue.js
+- TypeScript
+- Tailwind
+
+### Backend
+- Node.js
+- Laravel
+- GraphQL
+- Firebase
+
+### Bases de Datos
+- MySQL
+- PostgreSQL
+- MongoDB
+
+![NoPomeranianGIF](https://github.com/Manuellink1409/Manuellink1409/assets/119713955/47ad7a4a-b913-4663-b422-2ac81180b9bb)
+
