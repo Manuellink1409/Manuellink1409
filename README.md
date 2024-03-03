@@ -1,7 +1,7 @@
 
-### ¡Hey! Nice to see you 👋🏽
+## ¡Hey! Nice to see you 👋🏽
 
-###### I´m Manuel, Frontend developer from Toluca, Mexico. ^_^
+#### I´m Manuel, Frontend developer from Toluca, Mexico. ^_^
 
 ## ⚒️ Herramientas
 
